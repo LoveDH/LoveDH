@@ -5,7 +5,7 @@
 - **추천 시스템**과 **금융 데이터**를 좋아합니다. 🐢
 
 <center>
-<a href="https://lovedh.tistory.com/">
+<a href="mailto:dhyeok1996@gmail.com">
   <img 
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
