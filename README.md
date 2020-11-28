@@ -8,7 +8,10 @@
 
 **추천**과 **영화**, **금융**을 좋아합니다. 🐢<br>
   
-<br>
+  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LoveDH&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <a href="mailto:dhyeok1996@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"
@@ -24,6 +27,3 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/dodo_dongzzang/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
-  
-  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LoveDH&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
