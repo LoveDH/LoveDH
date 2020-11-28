@@ -1,8 +1,9 @@
-## 파잘알동짱 LoveDH입니다! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLoveDH&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br>
+## 파잘알동짱 LoveDH입니다! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLoveDH&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+
 - **데이터 마스터**가 되고싶은 산업공학도이자 개발자입니다.👨‍💻
 - 데이터 분석, 데이터 엔지니어링, 데이터 사이언스에 관심이 많습니다.👾
-- **추천 시스템**과 **금융 데이터**를 좋아합니다. 🐢
+- **추천 시스템**과 **금융 데이터**를 좋아합니다. 🐢  
+
 <br>
 <center><a href="mailto:dhyeok1996@gmail.com">
   <img 
