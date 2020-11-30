@@ -2,11 +2,11 @@
 
 
 
-#### **데이터 마스터**가 되고싶은 산업공학도이자 개발자입니다.👨‍💻  
+ **데이터 마스터**가 되고싶은 산업공학도이자 개발자입니다.👨‍💻  
 
-#### 데이터 분석, 데이터 엔지니어링, 데이터 사이언스에 관심이 많습니다.👾  
+ 데이터 분석, 데이터 엔지니어링, 데이터 사이언스에 관심이 많습니다.👾  
 
-#### **추천**과 **영화**, **금융**을 좋아합니다. 🐢<br>
+ **추천**과 **영화**, **금융**을 좋아합니다. 🐢<br>
   
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LoveDH&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
