@@ -17,7 +17,7 @@
         src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href=https://lovedh.tistory.com/notice/4">
+<a href="https://lovedh.tistory.com/notice/4">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://lovedh.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
