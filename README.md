@@ -11,7 +11,7 @@
  ### 소셜 미디어 💬
 - Email: dhyeok1996@gmail.com
 - Blog: [lovedh.tistory.com](lovedh.tistory.com)
-- Kaggle: [@SeuTao](https://www.kaggle.com/dhyeok1996)
+- Kaggle: [@Donghyeok](https://www.kaggle.com/dhyeok1996)
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LoveDH&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
