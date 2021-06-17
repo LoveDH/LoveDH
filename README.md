@@ -14,6 +14,7 @@
 - Email: dhyeok1996@gmail.com
 - Blog: [lovedh.tistory.com](lovedh.tistory.com)
 - Kaggle: [@Donghyeok](https://www.kaggle.com/dhyeok1996)
+- Dacon: [@실명전사김동혁](https://dacon.io/myprofile/151175/home/)
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LoveDH&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
