@@ -12,7 +12,7 @@
  
  ### 소셜 미디어 💬
 - Email: dhyeok1996@gmail.com
-- Blog: [lovedh.tistory.com](lovedh.tistory.com)
+- Blog: [lovedh.tistory.com](https://lovedh.tistory.com/)
 - Kaggle: [@Donghyeok](https://www.kaggle.com/dhyeok1996)
 - Dacon: [@실명전사김동혁](https://dacon.io/myprofile/151175/home/)
   
