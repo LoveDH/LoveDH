@@ -2,15 +2,12 @@
 
 
 
- **데이터 마스터**가 되고싶은 산업공학도입니다.👨‍💻  
+ 인정 받는 **딥러닝 엔지니어**가 되자.👨‍💻  
 
- 데이터 분석, 데이터 엔지니어링, 데이터 사이언스에 관심이 많습니다.👾  
- 
- **Kaggle**과 **Dacon** 컴패티션 참여하는 것을 좋아합니다. 🤖 <br>
  
  
  
- ### 소셜 미디어 💬
+ ### 프로필 💬
 - Email: dhyeok1996@gmail.com
 - Blog: [lovedh.tistory.com](https://lovedh.tistory.com/)
 - Kaggle: [@Donghyeok](https://www.kaggle.com/dhyeok1996)
